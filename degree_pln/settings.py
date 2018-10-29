@@ -42,10 +42,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #custom
-    #'planner',
+    'planner',
 
     #library
-    #'import_export',
+    'import_export',
 ]
 
 MIDDLEWARE = [
