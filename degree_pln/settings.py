@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'planner',
 
     #library
-    #'import_export',
+    'import_export',
 ]
 
 MIDDLEWARE = [
