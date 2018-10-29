@@ -1,7 +1,7 @@
 from django.conf.urls import url, include
 from django.contrib.auth import views as auth_views
 from django.contrib.auth.views import logout
-from degree_planner_final import settings
+from degree_pln import settings
 from .views import *
 
 
